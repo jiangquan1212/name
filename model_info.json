@@ -1,0 +1,7 @@
+{
+    "model_type": "ResNet50",
+    "num_classes": 2,
+    "test_accuracy": 97.6,
+    "training_date": "2026-04-27 15:26:58",
+    "device": "cpu"
+}
